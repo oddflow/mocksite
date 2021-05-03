@@ -238,6 +238,12 @@ select:hover {
 	width: 400px;
 	height: 100px;
 }
+
+.top-head {
+	background-color: #354954;
+}
+
+
 /* Tablet and Smartphone Specific */
 @media only screen and (max-device-width: 768px)
 {
