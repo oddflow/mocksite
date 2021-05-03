@@ -243,6 +243,9 @@ select:hover {
 	background-color: #354954;
 }
 
+#HeaderSectionPadding {
+	background-color: #50859E;
+}
 
 /* Tablet and Smartphone Specific */
 @media only screen and (max-device-width: 768px)
