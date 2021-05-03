@@ -61,18 +61,14 @@ input
 }
 select
 {
-	
 	color: white;
-	background-color: #AAEB86;
+	background-color: #354954;
 	font-size: 15px;
 	border: none;
 	transition: 0.2s;
 	appearance: none;
 }
-select:hover {
-	background-color: #354954;
-	
-}
+
 #HeaderSection, .HeaderSectionClass
 {
 	width: 100%;
