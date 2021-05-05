@@ -234,11 +234,12 @@ select
 }
 
 .top-head {
-	background-color: #354954;
+	/*#354954*/
+	background-color: #161616;
 }
 
 #HeaderSectionPadding {
-	background-color: #354954;
+	background-color: #161616;
 }
 
 /* Tablet and Smartphone Specific */
