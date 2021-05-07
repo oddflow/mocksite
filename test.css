@@ -75,7 +75,7 @@ select
 }
 #HeaderSectionPadding
 {
-	padding: 8px 10px 10px 25px;
+	padding: 8px 10px 0px 25px;
 }
 .second-border {
 	border-bottom: solid white 5px;
