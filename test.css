@@ -72,17 +72,16 @@ select
 #HeaderSection, .HeaderSectionClass
 {
 	width: 100%;
-	border-bottom: solid 5px white;
 }
 #HeaderSectionPadding
 {
 	padding: 8px 10px 10px 25px;
 }
 .second-border {
-	border-bottom: solid #50859e 5px;
+	border-bottom: solid white 5px;
 }
 .third-border {
-	border-bottom: solid #c22a2a 5px;
+	border-bottom: solid #980700 5px;
 }
 .HeaderTitle
 {
